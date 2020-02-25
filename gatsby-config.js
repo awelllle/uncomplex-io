@@ -89,11 +89,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Uncomplex.Io`,
+        short_name: `Uncomplex`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#e79e1b`,
         display: `minimal-ui`,
         icon: `content/assets/icon.png`,
       },
