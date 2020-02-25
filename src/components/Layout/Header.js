@@ -50,7 +50,8 @@ function Header({ location, title, base }) {
         style={{
           boxShadow: 'none',
           textDecoration: 'none',
-          color: 'rgb(255, 167, 196)',
+          color: 'rgb(231, 160, 33)',
+          fontWeight: '900',
         }}
         to={base}
       >

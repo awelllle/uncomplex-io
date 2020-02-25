@@ -5,10 +5,6 @@ import { Link, graphql } from 'gatsby';
 import Bio from 'components/Bio';
 import Layout from 'components/Layout';
 import SEO from 'components/SEO';
-import TagList from 'components/TagList';
-import RelativePosts from 'components/RelativePosts';
-
-import TranslationsLink from 'components/TranslationsLink';
 
 import { formatReadingTime } from 'utils/helpers';
 import { formatDate } from 'utils/i18n';
@@ -31,7 +27,8 @@ function BlogPostTemplate({ data, pageContext, location }) {
         description={post.frontmatter.description || post.excerpt}
       />
       <h1>{post.frontmatter.title}</h1>
-      <p
+      
+      <span className="small-text"> <p
         style={{
           ...scale(-1 / 5),
           display: `block`,
@@ -42,13 +39,13 @@ function BlogPostTemplate({ data, pageContext, location }) {
         {formatDate(post.frontmatter.date)}
         {` • ${formatReadingTime(post.timeToRead)}`}
       </p>
+      </span>
 
     
      
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
 
-      <RelativePosts postNodes={[previousInSameTag, nextInSameTag]} lang={lang} />
-
+     
       <hr
         style={{
           marginBottom: rhythm(1),

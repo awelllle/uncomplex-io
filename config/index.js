@@ -2,9 +2,9 @@ const site = {
   pathPrefix: '/gatsby-simple-blog',
   title: 'Uncomplex',
   author: 'Awelle',
-  description: 'I try to explain modern tech with illustrations',
-  siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
-  twitter: 'awelllle',
+  description: 'Breaking down technical terms. They\'re really not complex.',
+  siteUrl: 'https://uncomplex.io',
+  twitter: 'https://twitter.com/Awelllle',
   github: 'awelllle',
  
   
@@ -15,7 +15,7 @@ const site = {
 
 const supportedLanguages = {
   en: 'English',
-  'zh-hans': '简体中文',
+  
 };
 
 module.exports = {

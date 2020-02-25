@@ -40,7 +40,13 @@ function Bio() {
                 }}
               />
               <div className="description">
-                <p>{description}</p>
+
+            
+                <p style={{ fontWeight: 400 }}> 
+                
+                <a   rel="noopener noreferrer" target="_blank" className= "bio-link-name" href="https://twitter.com/Awelllle"> Awelle&apos;s</a> Personal Blog <br />
+                Those tech terms are really not complex! <br />
+                </p>
               
               </div>
             </div>

@@ -43,7 +43,7 @@ function PostAbbrev({ slug, title, date, timeToRead, excerpt, tags, base }) {
           </Link>
         </h3>
         {tagsPart}
-        <small>{`${formatDate(date)} • ${formatReadingTime(timeToRead)}`}</small>
+        <span className="small-text"> <small>{`${formatDate(date)} • ${formatReadingTime(timeToRead)}`}</small> </span>
         {excerptPart}
       </header>
     </article>

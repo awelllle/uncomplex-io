@@ -47,13 +47,7 @@ function Layout({ children, location, title, breadcrumbs }) {
           <Header base={homeLink} location={location} title={title} />
           <ReadModeToggle />
         </header>
-        <Breadcrumbs
-          base={homeLink}
-          langKey={lang}
-          data={breadcrumbs}
-          showTop={true}
-          style={{ marginTop: '-1.5rem' }}
-        />
+       
         {children}
         <Footer />
       </div>

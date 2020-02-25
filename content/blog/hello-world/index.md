@@ -1,12 +1,10 @@
 ---
-title: Hello World
+title: Hello World!
 date: "2020-02-14T10:06:06.284Z"
 tags: ["life", "2019", "zoos"]
 ---
 
 This is my first post on my new blog!
-
-Give me a minute please, let me switch to writer mode...
 
 Okay, so I started this blog to explain the concept of some technologies so that it would be easier for anyone to to delve into them and start using them.  
 
