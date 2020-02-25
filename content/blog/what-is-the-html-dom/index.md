@@ -4,8 +4,6 @@ date: "2020-02-25T01:11:06.284Z"
 tags: ["life", "2019", "zoos"]
 ---
 
-What is the HTML DOM?!
-
 As you started learning about the web, you definitely must’ve come across the DOM, but you probably haven’t really understood what it is and why we need it. So let’s talk ‘bout it for a min.
 
 According to Wikipedia, “The Document Object Model (DOM) is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree..” blah blah🤦‍♂...too much grammar. 
