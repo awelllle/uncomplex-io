@@ -1,5 +1,5 @@
 const site = {
-  pathPrefix: '/gatsby-simple-blog',
+  pathPrefix: '/uncomplex-io',
   title: 'Uncomplex',
   author: 'Awelle',
   description: 'Breaking down technical terms. They\'re really not complex.',
