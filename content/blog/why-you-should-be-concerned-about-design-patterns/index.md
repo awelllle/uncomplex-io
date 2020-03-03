@@ -1,5 +1,5 @@
 ---
-title: Why you should be concerned about design patterns
+title: What are design patterns?
 date: "2020-03-03T12:15:06.284Z"
 tags: ["design", "patterns", "singleton"]
 ---
@@ -7,7 +7,7 @@ tags: ["design", "patterns", "singleton"]
 Coding can be fun! You get to type all those random characters that make up the syntax of a language and watch it produce cool results. Don’t get me started on how it feels when you have friends who don’t code, how cool you look typing all those things that don’t make sense to them and using fancy terms like “compile” and “debug”.
 
 
-However, I need you to know something, at the end of the day, **building software is serious business.** That’s why design patterns are important.
+However, know this: at the end of the day, **building software is serious business.** That’s why design patterns are important.
 
 
 Check out this cool staircase:
@@ -35,7 +35,7 @@ We’ve noticed some constansts. Patterns. Design Patterns.
 
  We’ve standardised them. 
  
- Do you want to be a good software engineer? 
+You wanna be really good at building reliable and quality software? 
  
  You need to tap in. 
 
