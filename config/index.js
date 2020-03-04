@@ -1,6 +1,6 @@
 const site = {
   pathPrefix: '/uncomplex-io',
-  title: 'Uncomplex',
+  title: 'Uncomplex.io',
   author: 'Awelle',
   description: 'Breaking down technical terms. They\'re really not complex.',
   siteUrl: 'https://uncomplex.io',

@@ -3,7 +3,7 @@ module.exports = {
   tRelativePosts: 'Relative Posts',
   tFollowTwitterDescription: 'You should follow him on Twitter',
   tTags: 'Tags',
-  tIndTitle: 'All posts',
+  tIndTitle: 'Home',
   taIndKeywords: [`blog`, `gatsby`, `javascript`, `react`],
   tfIndCountPosts: count => `${count} Posts`,
   tfTagHeader: (totalCount, tag) =>
