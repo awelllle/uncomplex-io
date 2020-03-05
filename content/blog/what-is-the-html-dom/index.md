@@ -20,4 +20,4 @@ This webpage you're currently scrolling through has a DOM.
 
 Because of the DOM, when you toggle that button on the top right corner of this page, Javascript changes the "outfit" of this page.
 
-The DOM is like a mannequin of a webpage in the eyes of languages like JavaScript.
+The DOM is like the mannequin of a webpage in the eyes of languages like JavaScript.
