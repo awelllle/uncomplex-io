@@ -15,18 +15,18 @@ Check out this cool staircase:
 ![Apple staircas image](https://admin.mashable.com/wp-content/uploads/2013/10/apple1.jpg "Apple staircase image")
 Source: <a style="color:#e79e1b" href="https://mashable.com/2013/10/02/apple-patent-glass-cylinder/" target="_blank">https://mashable.com/2013/10/02/apple-patent-glass-cylinder</a>
 
-Apple won an architectural patent for those fancy and cool glass staircases in their stores. 
+Apple won an architectural patent for those fancy and cool glass staircase in their stores. 
 
 But quite a number of people may have problems with this **design.** 
 
-The transparency of the staircases poses a very vulnerable situation for women wearing dresses or skirts. What if someone happens be standing under the staircase or walks by and glances up? 
+The transparency of the staircase poses a vulnerable situation for women wearing dresses or skirts. What if someone happens to be standing under the staircase or walks by and glances up? 
 
 Awkwarrrrrd! right?
  
 The prevalence of camera phones and accessibility to the internet can also make this even more distressing for women.
 
 
-If you’re not careful, you can build software like that glass staircase. Fancy, but with a bad design that might throw users off.
+If you’re not careful, you can build software like that glass staircase. Fancy, but with a faulty design that might put some users off.
 
 
 Software engineering has grown over the years. We’ve learnt from our mistakes. 

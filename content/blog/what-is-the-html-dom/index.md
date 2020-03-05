@@ -16,6 +16,8 @@ In a similar way, all webpages have something like mannequins under the hood. Th
 
 Because of the DOM, languages like JavaScript can “dress up” some areas of a webpage.
 
-Because of the DOM, languages like JavaScript can “wear a hat” for example, on the “head” of a webpage,
+This webpage you're currently scrolling through has a DOM.
+
+Because of the DOM, when you toggle that button on the top right corner of this page, Javascript changes the "outfit" of this page.
 
 The DOM is like a mannequin in the eyes of languages like JavaScript.
