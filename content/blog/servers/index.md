@@ -14,9 +14,9 @@ Well, servers are like waiters or waitresses. Let me tell you how.
 Imagine going to this fancy restaurant. You go in and take your seat. Who usually attends to you? A waiter or a waitress.
 
 When you go on your browser (fancy restaurant) and type ‘uncomplex.io’ in the address bar, what happens? A waiter or waitress (server) serves you all the juicy content on uncomplex.io!
-(emoji)
+😋😋
 
-We’ve all been servers at some point in our lives. Remember that time you grabbed a drink for a friend from the fridge?
+We’ve all been servers at some point in our lives. Remember that time you grabbed a drink for a friend from the fridge? 😉
 
 Servers are called what they are called (servers) because of what they do!
 
