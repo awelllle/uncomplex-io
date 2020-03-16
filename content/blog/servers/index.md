@@ -1,7 +1,7 @@
 ---
 title: What are servers?
 date: "2020-03-16T10:06:06.284Z"
-tags: ["life", "2019", "zoos"]
+tags: ["servers", "web servers", "browser"]
 ---
 
 
