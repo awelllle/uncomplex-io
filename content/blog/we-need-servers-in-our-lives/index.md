@@ -1,5 +1,5 @@
 ---
-title: What are servers?
+title: We need servers in our lives!
 date: "2020-03-16T10:06:06.284Z"
 tags: ["servers", "web servers", "browser"]
 ---
