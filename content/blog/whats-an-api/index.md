@@ -6,7 +6,7 @@ tags: ["API", "rest", "REST API", "rest api"]
 
 An API (Application Programming Interface) is simply a way through which two systems connect seamlessly. There are many types of APIs that exist on different systems. Lets use Web APIs as an example. Web APIs are APIs that exist on the World Wide Web.
 
-Suppose you built a payment gateway like <a style="color:#e79e1b" href="https://aws.amazon.com/serverless/" target="_blank">Stripe</a> or <a style="color:#e79e1b" href="https://aws.amazon.com" target="_blank">Paystack</a>. You want people all over the world to be able to seamlessly process payments.
+Suppose you built a payment gateway like <a style="color:#e79e1b" href="https://stripe.com/" target="_blank">Stripe</a> or <a style="color:#e79e1b" href="https://paystack.com/" target="_blank">Paystack</a>. You want people all over the world to be able to seamlessly process payments.
 
 Now lets say I have a website where I sell books. I want to use your software to process payments. How do you think a typical payment session will go?
 
